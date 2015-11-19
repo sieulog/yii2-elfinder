@@ -1,7 +1,7 @@
-ElFinder Расширение для Yii 2
+ElFinder for Yii 2
 ===========================
 
-ElFinder — файловый менеджер для сайта.
+ElFinder — using in Yii2CMS.
 
 
 ## Установка
