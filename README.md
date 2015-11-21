@@ -11,13 +11,13 @@ ElFinder — using in Yii2CMS.
 Либо запустить
 
 ```
-php composer.phar require --prefer-dist mihaildev/yii2-elfinder "*"
+php composer.phar require --prefer-dist sieulog/yii2-elfinder "*"
 ```
 
 или добавить
 
 ```json
-"mihaildev/yii2-elfinder": "*"
+"sieulog/yii2-elfinder": "*"
 ```
 
 в разделе `require` вашего composer.json файла.
